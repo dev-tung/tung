@@ -1,3 +1,8 @@
+├── Sản phẩm công nghệ
+│   ├── Hoàn thiện và đóng gói các sản phẩm phần mềm đang kinh doanh.
+│   ├── Liên tục cập nhật công nghệ mới để ứng dụng vào sản phẩm.
+│   ├── Tìm kiếm cơ hội kinh doanh từ các xu hướng công nghệ.
+
 PHẦN MỀM QUẢN LÝ KINH DOANH
 │
 ├── shop          # Bán lẻ
