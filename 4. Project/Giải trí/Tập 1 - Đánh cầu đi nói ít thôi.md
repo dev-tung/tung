@@ -1,0 +1,1 @@
+Xuất bản cùng với trống
